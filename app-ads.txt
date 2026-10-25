@@ -1,0 +1,6 @@
+# app-ads.txt for littlekettlestudios.com (Sprout Sort, AdMob).
+# FILL IN BEFORE MERGING: replace pub-XXXXXXXXXXXXXXXX with the AdMob publisher ID
+# (AdMob → Settings → Account information → Publisher ID). Keep the rest of the line as it is.
+# AdMob crawls this file at https://littlekettlestudios.com/app-ads.txt; the App Store "Developer Website"
+# (marketing URL) for Sprout Sort must be https://littlekettlestudios.com for AdMob to find it.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
